@@ -1,0 +1,1 @@
+# terraform_wordpress_vpc_hard_coded
